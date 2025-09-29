@@ -49,3 +49,4 @@ Cada pedido genera una transacción con el método de pago (tarjeta de crédito,
 
 # creacion de las tablas  para la biblioteca de sofia
 
+# tambien se creo una tabla llamada inventario el cual nos ayuda a saber que cantidad de libros tiene la libreria  y en precio para que esta no afecte libros cuando el precio cambie
